@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.margin_content {
+    margin-top: 100px;
+}
+.form_design {
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#transaction_area {
+    display: none;
+}
